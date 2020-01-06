@@ -2,7 +2,7 @@ title: Jaszium - About (SSJT)
 description: |-
   A bold typographic theme inspired by Swiss design.
   Provided by Stastic Swiss Jekyll Theme (SSJT)
-social_link: pinterest
+social_link: medium
 social_username: jaszium
 github_repo: about
 github_username: jaszium
@@ -32,7 +32,6 @@ social_links:
   - instagram
   - medium
   - dribbble
-  - pinterest
 theme_colors:
   - black
   - blue
