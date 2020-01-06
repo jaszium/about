@@ -2,11 +2,11 @@ title: Jaszium - About (SSJT)
 description: |-
   A bold typographic theme inspired by Swiss design.
   Provided by Stastic Swiss Jekyll Theme (SSJT)
-social_link: twitter
+social_link: youtube
 social_username: jaszium
 github_repo: about
-github_username: broccolini
-theme_color: red
+github_username: jaszium
+theme_color: darkblue
 remote_theme: internet-de-france/swiss
 baseurl: /about
 defaults:
